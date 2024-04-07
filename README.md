@@ -40,3 +40,7 @@ For pyscreener installation please refer to the following link:
 https://github.com/coleygroup/pyscreener
 
 
+
+## Cite
+
+*  Changnan Gao, Wenjie Bao, Shuang Wang, Jianyang Zheng, Lulu Wang, Yongqi Ren, Linfang Jiao, Jianmin Wang, Xun Wang, DockingGA: enhancing targeted molecule generation using transformer neural network and genetic algorithm with docking simulation, Briefings in Functional Genomics, 2024;, elae011, https://doi.org/10.1093/bfgp/elae011
